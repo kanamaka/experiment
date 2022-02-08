@@ -1,5 +1,5 @@
-let apple = 160;
-let grape= 160;
+// let apple = 160;
+// let grape= 160;
 
 // 条件分岐
 // if (apple < grape) {
@@ -20,3 +20,13 @@ let grape= 160;
 // }
 
 // alert('2を掛け続けて' + max + 'を超えるのに必要だった回数は' + count + '回です');
+
+// for文 ～10までの足し算
+// let i;
+// let num =0;
+
+// for(i = 1; i < 10; i++) {
+//   num = num + i;
+// }
+
+// alert("１から9まで足し算" + num);
